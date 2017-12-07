@@ -4,7 +4,7 @@ This repository contains data, code and figures associated with following paper 
 
 **A field like today's? The strength of the geomagnetic field 1.1 billion years ago**
 
-Courtney J. Sprain<sup>1,2</sup>, Nicholas L. Swanson-Hysell<sup>1</sup>, Luke M. Fairchild<sup>1</sup>, and Kevin Gasstra<sup>1,3</sup>
+Courtney J. Sprain<sup>1,2</sup>, Nicholas L. Swanson-Hysell<sup>1</sup>, Luke M. Fairchild<sup>1</sup>, and Kevin Gaastra<sup>1,3</sup>
 
 *<sup>1</sup>Department of Earth and Planetary Science, University of California Berkeley, Berkeley, CA 94720*
 
